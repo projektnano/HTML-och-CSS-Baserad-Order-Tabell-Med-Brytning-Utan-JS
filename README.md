@@ -108,13 +108,13 @@ Använd som den är, men i produktion krävs naturligtvis att du pekar varje upp
       <tr>
         <td data-label="Order ID">#98993</td>
         <td data-label="Kund">Johan Nilsson</td>
-        <td data-label="Status"><span class="status-markor klar">Completed</span></td>
+        <td data-label="Status"><span class="status-markor klar">Klar</span></td>
         <td data-label="Belopp">120.00 kr</td>
       </tr>
       <tr>
         <td data-label="Order ID">#98994</td>
         <td data-label="Kund">Jenny Persson</td>
-        <td data-label="Status"><span class="status-markor vantande">Pending</span></td>
+        <td data-label="Status"><span class="status-markor vantande">Pendlar</span></td>
         <td data-label="Belopp">895.50 kr</td>
       </tr>
     </tbody>
